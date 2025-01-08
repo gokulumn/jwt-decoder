@@ -15,7 +15,7 @@ import java.security.spec.InvalidKeySpecException;
 
 
 @RestController
-@RequestMapping("/api/users")
+@RequestMapping("/jwt")
 public class Jwtoller {
 
     @Autowired
